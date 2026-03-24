@@ -17,7 +17,7 @@ Take back your feeds. Scans 7 platforms, kills the noise, keeps the signal.
 ## Install
 
 ```bash
-claude plugin install konqkonq/unzuck
+claude plugin install donttalkaboutit/unzuck
 ```
 
 ## Usage
