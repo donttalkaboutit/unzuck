@@ -1,0 +1,10 @@
+# Generated outputs
+content-digest-*.html
+items-scored.json
+
+# Local user files
+.claude/settings.local.json
+ideas.txt
+
+# OS files
+.DS_Store

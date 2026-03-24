@@ -1,0 +1,8 @@
+{
+    "name": "unzuck",
+    "description": "Take back your feeds. Scans 7 platforms, kills the noise, keeps the signal.",
+    "version": "1.0.0",
+    "author": {
+        "name": "konqkonq"
+    }
+}
