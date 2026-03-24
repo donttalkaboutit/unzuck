@@ -1,0 +1,25 @@
+{
+    "name": "unzuck",
+    "owner": {
+        "name": "donttalkaboutit"
+    },
+    "metadata": {
+        "description": "Take back your feeds. Scans 7 platforms, kills the noise, keeps the signal.",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "unzuck",
+            "source": "./",
+            "description": "Take back your feeds. Scans 7 platforms, kills the noise, keeps the signal.",
+            "version": "1.0.0",
+            "author": {
+                "name": "donttalkaboutit"
+            },
+            "repository": "https://github.com/donttalkaboutit/unzuck",
+            "license": "MIT",
+            "keywords": ["social-media", "feeds", "curation", "signal-to-noise"],
+            "category": "productivity"
+        }
+    ]
+}
