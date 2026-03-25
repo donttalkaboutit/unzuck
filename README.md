@@ -6,6 +6,8 @@ Take back your feeds. Scans 7 platforms, kills the noise, keeps the signal.
 
 ![Claude Code Plugin](https://img.shields.io/badge/Claude_Code-Plugin-7C3AED)
 
+<img width="1512" height="782" alt="Screenshot 2026-03-25 at 00 36 01" src="https://github.com/user-attachments/assets/3d1ea8f7-58ad-4dd9-8015-9c9b3ddaa16c" />
+
 ## What it does
 
 1. **Scans 7 platforms in parallel** — YouTube, Twitter/X, Reddit, Hacker News, LinkedIn, Facebook, Instagram
