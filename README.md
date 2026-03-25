@@ -25,7 +25,8 @@ Take back your feeds. Scans 7 platforms, kills the noise, keeps the signal.
 
 ## Usage
 
-```
+```bash
+claude --chrome
 /unzuck
 ```
 
